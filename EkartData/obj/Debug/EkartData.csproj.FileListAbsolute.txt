@@ -1,0 +1,11 @@
+C:\Users\E005450\source\repos\dotNET_DEV\EkartData\bin\Debug\EkartData.dll
+C:\Users\E005450\source\repos\dotNET_DEV\EkartData\bin\Debug\EkartData.pdb
+C:\Users\E005450\source\repos\dotNET_DEV\EkartData\obj\Debug\EkartData.csprojAssemblyReference.cache
+C:\Users\E005450\source\repos\dotNET_DEV\EkartData\obj\Debug\EkartData.dll
+C:\Users\E005450\source\repos\dotNET_DEV\EkartData\obj\Debug\EkartData.pdb
+C:\Users\user\Downloads\dotNET_DEV_Sreenivas\EkartData\bin\Debug\EkartData.dll
+C:\Users\user\Downloads\dotNET_DEV_Sreenivas\EkartData\bin\Debug\EkartData.pdb
+C:\Users\user\Downloads\dotNET_DEV_Sreenivas\EkartData\obj\Debug\EkartData.csprojAssemblyReference.cache
+C:\Users\user\Downloads\dotNET_DEV_Sreenivas\EkartData\obj\Debug\EkartData.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\dotNET_DEV_Sreenivas\EkartData\obj\Debug\EkartData.dll
+C:\Users\user\Downloads\dotNET_DEV_Sreenivas\EkartData\obj\Debug\EkartData.pdb
